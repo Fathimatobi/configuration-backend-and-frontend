@@ -1,0 +1,30 @@
+"node_modules/bootstrap/dist/css/bootstrap.min.css",
+
+
+
+
+npm i bootstrap --save
+
+npm i rxjs-compat
+
+npm i @angular/http
+
+npm i @angular/cli
+
+
+
+
+.container{
+    width: 300px;
+    height: 700px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.heading{
+    background-color: skyblue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   width: 1900px
+}
